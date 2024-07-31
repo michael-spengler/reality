@@ -1,5 +1,5 @@
 # Reality
-This is an experimental education project which rewards those who explore [Reality](https://www.geckoterminal.com/polygon_pos/pools/0x2c502aaf956827029561a435765e6bc8560b3922.
+This is an experimental education project which rewards those who explore [Reality](https://www.geckoterminal.com/polygon_pos/pools/0x2c502aaf956827029561a435765e6bc8560b3922).
 
 ## Utility
 Provide playgrounds to explore architectures of freedom.   
