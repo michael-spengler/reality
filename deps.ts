@@ -1,0 +1,1 @@
+export { ethers } from 'npm:ethers@6.9.1'
